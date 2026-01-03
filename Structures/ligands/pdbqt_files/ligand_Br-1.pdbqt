@@ -1,0 +1,12 @@
+REMARK  Name = ./Br-1.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 Br   UNK     0      28.275  37.980 -59.487  0.00  0.00    -0.056 Br
+ATOM      2 Br   UNK     0      30.768  39.821 -60.386  0.00  0.00    -0.056 Br
+ATOM      3 Br   UNK     0      30.721  38.492 -57.446  0.00  0.00    -0.056 Br
+ATOM      4  C   UNK     0      30.182  38.316 -59.305  0.00  0.00    +0.169 C 
+ENDROOT
+TORSDOF 0
