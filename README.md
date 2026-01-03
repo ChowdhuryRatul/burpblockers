@@ -102,7 +102,6 @@ conda activate methano_env
 
 ### Molecular Docking
 
-```
 ```mermaid
 flowchart TD
     A[Activate Conda Environment] --> B[Set Working Directory]
