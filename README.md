@@ -47,11 +47,8 @@ We present an integrated, structure-informed, AI-enabled framework for identifyi
 │   ├── permeability/
 │   └── toxicity/
 ├── metabolic_modeling/
-├── notebooks/
+├── Chemical_similarity/
 ├── figures/
-├── environment/
-│   ├── conda_environment.yml
-│   └── requirements.txt
 ├── LICENSE
 └── README.md
 ```
